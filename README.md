@@ -1,7 +1,7 @@
 # CISP-BMEI-2023
 title: Computer Simulation of Gene Knockout in Bacteria Accelerated by AI\
 mail: peter_geng@stu.pku.edu.cn\
-twitter: @phagebacteria  Peter X. Geng
+twitter: Peter X. Geng
 
 Oct,25,2023
 
